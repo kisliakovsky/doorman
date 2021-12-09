@@ -1,0 +1,9 @@
++package org.kislyi.doorman
+
++alias org.eolang.io.stdout
+
++alias org.kislyi.doorman.lucy
+
+[args...] > app
+  stdout > @
+    lucy (args.get 0)

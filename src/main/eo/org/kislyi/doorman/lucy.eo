@@ -1,0 +1,6 @@
++package org.kislyi.doorman
+
++alias org.kislyi.doorman.doorman
+
+[name] > lucy
+  doorman "Bonjour, %s" name > @

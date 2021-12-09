@@ -1,0 +1,6 @@
++package org.kislyi.doorman
+
++alias org.eolang.txt.sprintf
+
+[greeting name] > doorman
+  sprintf greeting name > @
